@@ -16,9 +16,8 @@ body {
     background-image: linear-gradient(to right, #fa7099a1 0%, #fee1408e 100%), url('img/header.jpg');
     width: 100%;
     height: 650px;
-    max-height: 120vh;
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
     position: relative;
@@ -26,14 +25,12 @@ body {
 }
 
 .textos-hero {
-    height: 480px;
+    height: 500px;
     color: #fff;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    max-height: 500px;
 }
 
 .textos-hero h1{
